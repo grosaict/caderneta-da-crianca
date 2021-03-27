@@ -4,6 +4,6 @@ Esse documento tem como objetivo apresentar e descrever o projeto final, fornece
 
 ## [Canvas MVP](artifacts/Canvas_MVP.png)
 
-## [Repositório server]
+## [Repositório server] (https://github.com/grosaict/CDC-server)
 
-## [Repositório web-client]
+## [Repositório web-client] (https://github.com/grosaict/CDC-web-client)
