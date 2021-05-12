@@ -7,12 +7,11 @@ A documentação completa do projeto está publicada no Medium, acessível pelo 
 ## [Medium: Caderneta da Criança](https://medium.com/@grosa.ict/caderneta-da-crianca-b97e5db1cdfe)
 
 ## [Canvas MVP](artifacts/Canvas_MVP.png)
-<!-- ![Canvas MVP](artifacts/Canvas_MVP.png) -->
 
 ## [Diagrama ER](artifacts/MVP_ER_Diagram.png)
 
 ## [Dicionário de Dados](artifacts/dd.md)
 
-## [Repositório web-client](https://github.com/grosaict/CDC-web-client)
+## [Repositório UI](https://github.com/grosaict/CDC-web-client)
 
-## [Repositório server](https://github.com/grosaict/CDC-server)
+## [Repositório API](https://github.com/grosaict/CDC-server)
