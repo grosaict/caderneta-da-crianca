@@ -9,6 +9,10 @@ A documentação completa do projeto está publicada no Medium, acessível pelo 
 ## [Canvas MVP](artifacts/Canvas_MVP.png)
 <!-- ![Canvas MVP](artifacts/Canvas_MVP.png) -->
 
-## [Repositório server](https://github.com/grosaict/CDC-server)
+## [Diagrama ER](artifacts/MVP_ER_Diagram.png)
+
+## [Dicionário de Dados](artifacts/dd.md)
 
 ## [Repositório web-client](https://github.com/grosaict/CDC-web-client)
+
+## [Repositório server](https://github.com/grosaict/CDC-server)
