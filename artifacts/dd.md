@@ -24,4 +24,4 @@
 
 ![pediatricRecommended](data_dictionary/ST_05_pediatricRecommended.png)
 
-### [VOLTAR](../README.md)
+### [VOLTAR](https://github.com/grosaict/caderneta-da-crianca)

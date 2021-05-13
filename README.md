@@ -6,6 +6,8 @@ A documentação completa do projeto está publicada no Medium, acessível pelo 
 
 ## [Medium: Caderneta da Criança](https://medium.com/@grosa.ict/caderneta-da-crianca-b97e5db1cdfe)
 
+## [Arquitetura](artifacts/architecture.png)
+
 ## [Canvas MVP](artifacts/Canvas_MVP.png)
 
 ## [Diagrama ER](artifacts/MVP_ER_Diagram.png)
