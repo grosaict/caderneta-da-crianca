@@ -19,5 +19,3 @@ A documentação completa do projeto está publicada no Medium, acessível pelo 
 ## [Repo API / backend](https://github.com/grosaict/CDC-server)
 
 ## [Aplicação em produção](https://cadernetadacrianca.herokuapp.com/)
-
-<a href="https://cadernetadacrianca.herokuapp.com/" target="_blank">Aplicação em produção</a>
