@@ -4,7 +4,7 @@ Esse documento tem como objetivo apresentar e descrever o projeto final do Curso
 
 A documentação completa do projeto está publicada no Medium, acessível pelo primeiro link relacionado abaixo.
 
-## [Medium: Caderneta da Criança](https://medium.com/@grosa.ict/caderneta-da-crianca-b97e5db1cdfe)
+## [Medium: Caderneta da Criança](https://gabrielsrosa.medium.com/caderneta-da-crianca-b97e5db1cdfe)
 
 ## [Arquitetura](pages/architecture.md)
 
@@ -14,6 +14,8 @@ A documentação completa do projeto está publicada no Medium, acessível pelo 
 
 ## [Dicionário de Dados](pages/data_dictionary.md)
 
-## [Repositório UI](https://github.com/grosaict/CDC-web-client)
+## [Repo UI / frontend](https://github.com/grosaict/CDC-web-client)
 
-## [Repositório API](https://github.com/grosaict/CDC-server)
+## [Repo API / backend](https://github.com/grosaict/CDC-server)
+
+## [Aplicação em produção](https://cadernetadacrianca.herokuapp.com/)
