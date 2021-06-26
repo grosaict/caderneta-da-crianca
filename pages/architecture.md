@@ -6,10 +6,10 @@ Essa decisão foi pautada por suportar o desenvolvimento de uma aplicação leve
 
 ## Modelo base da arquitetura do sistema:
 
-![Architecture](architecture_model.png)
+![Architecture](../artifacts/architecture_model.png)
 
 ## Arquitetura detalhada do Caderneta da Criança:
 
-![Architecture](architecture.png)
+![Architecture](../artifacts/architecture.png)
 
 ### [VOLTAR](https://github.com/grosaict/caderneta-da-crianca)
