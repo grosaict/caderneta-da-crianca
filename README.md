@@ -4,18 +4,28 @@ Esse documento tem como objetivo apresentar e descrever o projeto final do Curso
 
 A documentação completa do projeto está publicada no Medium, acessível pelo primeiro link relacionado abaixo.
 
-## [Medium: Caderneta da Criança](https://gabrielsrosa.medium.com/caderneta-da-crianca-b97e5db1cdfe)
+## [Caderneta da Criança, um sistema de apoio à saúde infantil (Medium)](https://gabrielsrosa.medium.com/caderneta-da-crianca-b97e5db1cdfe)
 
-## [Arquitetura](pages/architecture.md)
+----------------------
 
 ## [Canvas MVP](artifacts/Canvas_MVP.png)
+
+## [Cronograma](https://trello.com/b/5HDuTaSG/caderneta-da-crianca)
+
+----------------------
 
 ## [Diagrama ER](artifacts/MVP_ER_Diagram.png)
 
 ## [Dicionário de Dados](pages/data_dictionary.md)
 
+## [Arquitetura da aplicação](pages/architecture.md)
+
+----------------------
+
 ## [Repo UI / frontend](https://github.com/grosaict/CDC-web-client)
 
 ## [Repo API / backend](https://github.com/grosaict/CDC-server)
 
-## [Aplicação em produção](https://cadernetadacrianca.herokuapp.com/)
+----------------------
+
+## [Caderneta da Criança (aplicação)](https://cadernetadacrianca.herokuapp.com/)
